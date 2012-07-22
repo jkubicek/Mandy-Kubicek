@@ -1,0 +1,3 @@
+[submodule "submodule/jQuery-Bounce"]
+	path = submodule/jQuery-Bounce
+	url = git://github.com/ghepting/jQuery-Bounce.git
